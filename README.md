@@ -27,8 +27,12 @@ Realizada em Python através do IPython Notebook gerando os arquivos D3_1.csv e 
 
 Comentários
 
-•	O que você percebeu na visualização?
-•	Quais perguntas você tem sobre os dados?
-•	Que relacionamento você percebeu?
-•	O que você acha que é o principal destaque dessa visualização?
-•	Existe algo que você não entende no gráfico? 
+- O que você percebeu na visualização?
+
+- Quais perguntas você tem sobre os dados?
+
+- Que relacionamento você percebeu?
+
+- O que você acha que é o principal destaque dessa visualização?
+
+- Existe algo que você não entende no gráfico? 
