@@ -16,7 +16,9 @@ O quarto gráfico, Vertical Grouped Bar, foi pensado para exibir a quantidade de
 Recursos e referências
 
 http://dimplejs.org/
+
 https://docs.google.com/document/d/1w7KhqotVi5eoKE3I_AZHbsxdr-NmcWsLTIiZrpxWx4w/pub?embedded=true
+
 http://bl.ocks.org/ishashankverma/61f8bd16bff7c41ad02709dc1a0fdcab
 
 Limpeza dos dados
