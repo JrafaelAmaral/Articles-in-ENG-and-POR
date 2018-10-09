@@ -4,4 +4,4 @@ Artigos do blog "Dados Com Sal e Limão" (http://www.dadoscomsalelimao.com/) cri
 
 **Summary**
 
-Articles from blog "Dados com Sal e Limão" created for me.
+Articles from blog "Dados com Sal e Limão" created by myself.
